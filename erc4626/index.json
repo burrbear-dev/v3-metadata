@@ -237,14 +237,7 @@
         "description": "This Boosted pool's underlying mechanics are powered by wrapped HypurrFi tokens",
         "icon": "hypurrfi_boosted.png",
         "addresses": {
-            "999": [
-                "0x02379E4a55111d999Ac18C367F5920119398b94B",
-                "0xFd32712A1cb152c03a62D54557fcb1dE372ABfe9",
-                "0x1Ca7e21B2dAa5Ab2eB9de7cf8f34dCf9c8683007",
-                "0xAEA02692F502b47e116bdfA9a4CeB3138Bd8B516",
-                "0xe8F7D82A73f13A64d689e7ddAD06139BFb51f9C6",
-                "0x02379E4a55111d999Ac18C367F5920119398b94B"
-            ]
+            "999": ["0x6d9dae449c4beb29151132b4c4b2692b7954cfae"]
         }
     }
 ]
