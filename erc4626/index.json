@@ -1,255 +1,291 @@
 [
-    {
-        "id": "boosted_aave",
-        "name": "Aave Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Aave tokens, which generate yield from lending activities on the Aave protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "aave_boosted.png",
-        "addresses": {
-            "1": [
-                "0x0bfc9d54Fc184518A81162F8fB99c2eACa081202",
-                "0xD4fa2D31b7968E448877f69A96DE69f5de8cD23E",
-                "0x7Bc3485026Ac48b6cf9BaF0A377477Fff5703Af8",
-                "0x0FE906e030a44eF24CA8c7dC7B7c53A6C4F00ce9",
-                "0x775f661b0bd1739349b9a2a3ef60be277c5d2d29",
-                "0xb51EDdDD8c47856D81C8681EA71404Cec93E92c6",
-                "0x6A1792a91C08e9f0bFe7a990871B786643237f0F",
-                "0xc71ea051a5f82c67adcf634c36ffe6334793d24c"
-            ],
-            "100": [
-                "0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644",
-                "0x57f664882f762fa37903fc864e2b633d384b411a",
-                "0x773cda0cade2a3d86e6d4e30699d40bb95174ff2",
-                "0x51350d88c1bd32cc6a79368c9fb70373fb71f375",
-                "0x417bc5b940475203a18c2f320a5ba470d6c5e463"
-            ],
-            "8453": [
-                "0x0830820D1A9aa1554364752d6D8F55C836871B74",
-                "0xe298b938631f750DD409fB18227C4a23dCdaab9b",
-                "0xf8f10f39116716e89498c1c5e94137ada11b2bc7",
-                "0x88b1Cd4b430D95b406E382C3cDBaE54697a0286E",
-                "0xC768c589647798a6EE01A91FdE98EF2ed046DBD6"
-            ],
-            "42161": [
-                "0x4cE13a79f45C1Be00BdABD38B764aC28C082704E",
-                "0xe98fc055c99DECD8Da0c111B090885d5d15C774E",
-                "0xD9E3Ef2c12de90E3b03F7b7E3964956a71920d40",
-                "0x7F6501d3B98eE91f9b9535E4b0ac710Fb0f9e0bc",
-                "0x4ff50C17df0D1b788d021ACd85039810a1aA68A1",
-                "0xD089B4cb88Dacf4e27be869A00e9f7e2E3C18193",
-                "0xa6D12574eFB239FC1D2099732bd8b5dC6306897F",
-                "0x52dc1feefa4f9a99221f93d79da46ae89b8c0967"
-            ],
-            "146": ["0x6646248971427B80ce531bdD793e2Eb859347E55"],
-            "11155111": [
-                "0xde46e43f46ff74a23a65ebb0580cbe3dfe684a17",
-                "0x8a88124522dbbf1e56352ba3de1d9f78c143751e",
-                "0x978206fae13faf5a8d293fb614326b237684b750"
-            ],
-            "43114": [
-                "0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b",
-                "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74",
-                "0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009",
-                "0x59933c571d200dc6A7Fd1CDa22495dB442082E34",
-                "0x7D0394F8898fBA73836Bf12bD606228887705895",
-                "0xdFD2b2437a94108323045C282fF1916de5Ac6Af7",
-                "0x45cf39EeB437FA95Bb9b52c0105254a6BD25D01e",
-                "0xC38aD3527A4B821BF437639cBA8Bf567BFa63A13",
-                "0x61933AF56431280EE4e5667133D8aF6322D64B32",
-                "0x7883978D1F322641a3AaA82Bac3b0a6Dee7A171E",
-                "0x3929336Afd0BBa6FCAbB67dFB78610379C66B43B",
-                "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74",
-                "0x79459f4c9afc902488109d058c3e76ed0b037c41"
-            ],
-            "10": [
-                "0x61b620FAd391b53A2D0973b10a3Ed69558d5c66E",
-                "0x464b808c2C7E04b07e860fDF7a91870620246148",
-                "0x927CfF131fD5B43FC992D071929b2c095d6E4b70",
-                "0xEA9020a9e04C557478daD749A1aaD242b443042C",
-                "0xbaF95bB30CDab3d5b7a11B67EDeF5631bD62be86",
-                "0x41B334E9F2C0ED1f30fD7c351874a6071C53a78E",
-                "0x712Ef4D78f43ecAfa106ea003704a908C99D7f11",
-                "0x8e6a81b9d541A0CeA090818B62C4B2DE7f2A2Cf7",
-                "0x0B590eF479c8e03825Ae779839aCb4583aCc15FD",
-                "0xC438643b0eee8a314eEC53eb8A1Ee6467C88fc24",
-                "0x527604E4D87A7562ec653dbe2878D0DCAB7f1972",
-                "0x0ec63A55a688E5Ba26afe8d9250114505E8b60a0",
-                "0x413093E03d6aeE4F2F7e48D4b88881bf4932b249"
-            ]
-        }
-    },
-    {
-        "id": "boosted_morpho",
-        "name": "Morpho Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Morpho vault tokens. Morpho Vaults generate yield from over-collateralized lending. Borrowers deposit collateral and borrow liquidity from the underlying markets, paying interest to the vault.",
-        "icon": "morpho_boosted.png",
-        "addresses": {
-            "1": [
-                "0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
-                "0xbeefc01767ed5086f35decb6c00e6c12bc7476c1",
-                "0x2371e134e3455e0593363cbf89d3b6cf53740618",
-                "0x7204b7dbf9412567835633b6f00c3edc3a8d6330",
-                "0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1",
-                "0x1e6ffa4e9F63d10B8820A3ab52566Af881Dab53c",
-                "0x097FFEDb80d4b2Ca6105a07a4D90eB739C45A666"
-            ],
-            "8453": ["0x616a4E1db48e22028f6bbf20444Cd3b8e3273738"]
-        }
-    },
-    {
-        "id": "boosted_avalon",
-        "name": "Avalon Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Avalon tokens, which generate yield from lending activities on the Avalon protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "avalon_boosted.png",
-        "addresses": {
-            "146": ["0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a", "0xa28d4dbcc90c849e3249d642f356d85296a12954"]
-        }
-    },
-    {
-        "id": "boosted_silo",
-        "name": "Silo Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo tokens, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "silo_boosted.png",
-        "addresses": {
-            "146": [
-                "0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8",
-                "0x87178fe8698c7eda8aa207083c3d66aea569ab98",
-                "0x016C306e103FbF48EC24810D078C65aD13c5f11B",
-                "0x219656f33c58488d09d518badf50aa8cdcaca2aa",
-                "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De",
-                "0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF",
-                "0xda14a41dbda731f03a94cb722191639dd22b35b2",
-                "0x0A94e18bdbCcD048198806d7FF28A1B1D2590724",
-                "0xe6605932e4a686534D19005BB9dB0FBA1F101272",
-                "0x24c74B30d1a4261608E84Bf5a618693032681DAc",
-                "0x08C320A84a59c6f533e0DcA655cf497594BCa1F9",
-                "0x42CE2234fd5a26bF161477a996961c4d01F466a3"
-            ]
-        }
-    },
-    {
-        "id": "boosted_varlamore",
-        "name": "Varlamore Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by Varlamore. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "varlamore_boosted.png",
-        "addresses": {
-            "146": [
-                "0xF6F87073cF8929C206A77b0694619DC776F89885",
-                "0xDED4aC8645619334186f28B8798e07ca354CFa0e",
-                "0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba",
-                "0x9a1bf5365edbb99c2c61ca6d9ffad0b705acfc6f"
-            ]
-        }
-    },
-    {
-        "id": "boosted_re7",
-        "name": "Re7 Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by re7. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "re7_boosted.png",
-        "addresses": {
-            "146": ["0x592d1e187729c76efacc6dffb9355bd7bf47b2a7"]
-        }
-    },
-    {
-        "id": "boosted_euler",
-        "name": "Euler Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by Euler tokens, which generate yield from lending activities on the Euler protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "euler_boosted.png",
-        "addresses": {
-            "43114": [
-                "0x5030183b3dd0105d69d7d45595c120fc4b542ec3",
-                "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
-                "0x2137568666f12fc5a026f5430ae7194f1c1362ab",
-                "0x39de0f00189306062d79edec6dca5bb6bfd108f9",
-                "0x72f92a966f1874f74e1b601bee7cf57031b53a03",
-                "0x51b47b3013863c52ca28d603de3c2d7a5fef50b9"
-            ],
-            "146": ["0x90a804D316A06E00755444D56b9eF52e5C4F4D73", "0x6832F3090867449c058e1e3088E552E12AB18F9E"]
-        }
-    },
-    {
-        "id": "boosted_stability",
-        "name": "Stability Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by Stability Meta Vaults, which generate yield from lending activities on various lending protocols, resulting in continuous appreciation of the pool's total value.",
-        "icon": "stability_boosted.png",
-        "addresses": {
-            "146": ["0xccccCCcca9FC69a2b32408730011EdB3205A93A1", "0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967"]
-        }
-    },
-    {
-        "id": "boosted_beefy",
-        "name": "Beefy Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by Beefy Vaults, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "beefy_boosted.png",
-        "addresses": {
-            "146": ["0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a"]
-        }
-    },
-    {
-        "id": "boosted_superform",
-        "name": "Superform Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by Superform Vaults, which generate yield from lending activities on the Superform protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "superform_boosted.png",
-        "addresses": {
-            "8453": ["0xe9F2a5F9f3c846f29066d7fB3564F8E6B6b2D65b"]
-        }
-    },
-    {
-        "id": "boosted_fluid",
-        "name": "Fluid Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by Fluid Vaults, which generate yield from lending activities on the Fluid protocol, resulting in continuous appreciation of the pool's total value.",
-        "icon": "fluid_boosted.png",
-        "addresses": {
-            "1": ["0x2411802d8bea09be0af8fd8d08314a63e706b29c", "0x90551c1795392094fe6d29b758eccd233cfaa260"],
-            "8453": ["0x9272d6153133175175bc276512b2336be3931ce9"],
-            "42161": ["0x45df0656f8adf017590009d2f1898eeca4f0a205"]
-        }
-    },
-    {
-        "id": "boosted_infinifi",
-        "name": "infiniFi Boosted",
-        "description": "This boosted pool's underlying mechanics are powered by infiniFi & Ethena tokens. siUSD earns yield from fractional reserve deployments of capital into lending markets & illiquid, higher yielding assets like Pendle PTs & Ethena sUSDe. sUSDe earns yield from the tokenized strategy for farming funding rates as provided through Ethena Finance.",
-        "icon": "infinifi_boosted.png",
-        "addresses": {
-            "1": ["0xdbdc1ef57537e34680b898e1febd3d68c7389bcb"]
-        }
-    },
-    {
-        "id": "boosted_extrafi",
-        "name": "Extra Finance Boosted",
-        "description": "This Boosted Pool is powered by wrapped Extrafi XLend tokens, which earn yield through lending activity on the Extrafi XLend protocol—driving continuous growth in the pool’s total value.",
-        "icon": "extrafi_boosted.png",
-        "addresses": {
-            "8453": ["0x589a7339c6d0c8777e7429f57f2f95c069c37288", "0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f"]
-        }
-    },
-    {
-        "id": "boosted_resolv",
-        "name": "Resolv Boosted",
-        "description": "",
-        "icon": "resolv_boosted.png",
-        "addresses": {
-            "1": ["0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055"]
-        }
-    },
-    {
-        "id": "boosted_hypurrfi",
-        "name": "HypurrFi Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped HypurrFi tokens",
-        "icon": "hypurrfi_boosted.png",
-        "addresses": {
-            "999": ["0x6d9dae449c4beb29151132b4c4b2692b7954cfae"]
-        }
-    },
-    {
-        "id": "boosted_dolomite",
-        "name": "Dolomite Boosted",
-        "description": "This Boosted pool's underlying mechanics are powered by wrapped Dolomite tokens",
-        "icon": "dolomite_boosted.png",
-        "addresses": {
-            "80094": [
-                "0x474F32Eb1754827C531C16330Db07531e901BcBe",
-                "0xAa97D791Afc02AF30cf0B046172bb05b3c306517"
-            ]
-        }
+  {
+    "id": "boosted_aave",
+    "name": "Aave Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by wrapped Aave tokens, which generate yield from lending activities on the Aave protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "aave_boosted.png",
+    "addresses": {
+      "1": [
+        "0x0bfc9d54Fc184518A81162F8fB99c2eACa081202",
+        "0xD4fa2D31b7968E448877f69A96DE69f5de8cD23E",
+        "0x7Bc3485026Ac48b6cf9BaF0A377477Fff5703Af8",
+        "0x0FE906e030a44eF24CA8c7dC7B7c53A6C4F00ce9",
+        "0x775f661b0bd1739349b9a2a3ef60be277c5d2d29",
+        "0xb51EDdDD8c47856D81C8681EA71404Cec93E92c6",
+        "0x6A1792a91C08e9f0bFe7a990871B786643237f0F",
+        "0xc71ea051a5f82c67adcf634c36ffe6334793d24c"
+      ],
+      "100": [
+        "0x7c16f0185a26db0ae7a9377f23bc18ea7ce5d644",
+        "0x57f664882f762fa37903fc864e2b633d384b411a",
+        "0x773cda0cade2a3d86e6d4e30699d40bb95174ff2",
+        "0x51350d88c1bd32cc6a79368c9fb70373fb71f375",
+        "0x417bc5b940475203a18c2f320a5ba470d6c5e463"
+      ],
+      "8453": [
+        "0x0830820D1A9aa1554364752d6D8F55C836871B74",
+        "0xe298b938631f750DD409fB18227C4a23dCdaab9b",
+        "0xf8f10f39116716e89498c1c5e94137ada11b2bc7",
+        "0x88b1Cd4b430D95b406E382C3cDBaE54697a0286E",
+        "0xC768c589647798a6EE01A91FdE98EF2ed046DBD6"
+      ],
+      "42161": [
+        "0x4cE13a79f45C1Be00BdABD38B764aC28C082704E",
+        "0xe98fc055c99DECD8Da0c111B090885d5d15C774E",
+        "0xD9E3Ef2c12de90E3b03F7b7E3964956a71920d40",
+        "0x7F6501d3B98eE91f9b9535E4b0ac710Fb0f9e0bc",
+        "0x4ff50C17df0D1b788d021ACd85039810a1aA68A1",
+        "0xD089B4cb88Dacf4e27be869A00e9f7e2E3C18193",
+        "0xa6D12574eFB239FC1D2099732bd8b5dC6306897F",
+        "0x52dc1feefa4f9a99221f93d79da46ae89b8c0967"
+      ],
+      "146": [
+        "0x6646248971427B80ce531bdD793e2Eb859347E55"
+      ],
+      "11155111": [
+        "0xde46e43f46ff74a23a65ebb0580cbe3dfe684a17",
+        "0x8a88124522dbbf1e56352ba3de1d9f78c143751e",
+        "0x978206fae13faf5a8d293fb614326b237684b750"
+      ],
+      "43114": [
+        "0xd7da0de6ef4f51d6206bf2a35fcd2030f54c3f7b",
+        "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74",
+        "0xe1bFC96d95BAdCB10Ff013Cb0C9C6c737ca07009",
+        "0x59933c571d200dc6A7Fd1CDa22495dB442082E34",
+        "0x7D0394F8898fBA73836Bf12bD606228887705895",
+        "0xdFD2b2437a94108323045C282fF1916de5Ac6Af7",
+        "0x45cf39EeB437FA95Bb9b52c0105254a6BD25D01e",
+        "0xC38aD3527A4B821BF437639cBA8Bf567BFa63A13",
+        "0x61933AF56431280EE4e5667133D8aF6322D64B32",
+        "0x7883978D1F322641a3AaA82Bac3b0a6Dee7A171E",
+        "0x3929336Afd0BBa6FCAbB67dFB78610379C66B43B",
+        "0x2d324fd1ca86d90f61b0965d2db2f86d22ea4b74",
+        "0x79459f4c9afc902488109d058c3e76ed0b037c41"
+      ],
+      "10": [
+        "0x61b620FAd391b53A2D0973b10a3Ed69558d5c66E",
+        "0x464b808c2C7E04b07e860fDF7a91870620246148",
+        "0x927CfF131fD5B43FC992D071929b2c095d6E4b70",
+        "0xEA9020a9e04C557478daD749A1aaD242b443042C",
+        "0xbaF95bB30CDab3d5b7a11B67EDeF5631bD62be86",
+        "0x41B334E9F2C0ED1f30fD7c351874a6071C53a78E",
+        "0x712Ef4D78f43ecAfa106ea003704a908C99D7f11",
+        "0x8e6a81b9d541A0CeA090818B62C4B2DE7f2A2Cf7",
+        "0x0B590eF479c8e03825Ae779839aCb4583aCc15FD",
+        "0xC438643b0eee8a314eEC53eb8A1Ee6467C88fc24",
+        "0x527604E4D87A7562ec653dbe2878D0DCAB7f1972",
+        "0x0ec63A55a688E5Ba26afe8d9250114505E8b60a0",
+        "0x413093E03d6aeE4F2F7e48D4b88881bf4932b249"
+      ]
     }
+  },
+  {
+    "id": "boosted_morpho",
+    "name": "Morpho Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by wrapped Morpho vault tokens. Morpho Vaults generate yield from over-collateralized lending. Borrowers deposit collateral and borrow liquidity from the underlying markets, paying interest to the vault.",
+    "icon": "morpho_boosted.png",
+    "addresses": {
+      "1": [
+        "0xbeef01735c132ada46aa9aa4c54623caa92a64cb",
+        "0xbeefc01767ed5086f35decb6c00e6c12bc7476c1",
+        "0x2371e134e3455e0593363cbf89d3b6cf53740618",
+        "0x7204b7dbf9412567835633b6f00c3edc3a8d6330",
+        "0xbeefc011e94f43b8b7b455ebab290c7ab4e216f1",
+        "0x1e6ffa4e9F63d10B8820A3ab52566Af881Dab53c",
+        "0x097FFEDb80d4b2Ca6105a07a4D90eB739C45A666"
+      ],
+      "8453": [
+        "0x616a4E1db48e22028f6bbf20444Cd3b8e3273738"
+      ]
+    }
+  },
+  {
+    "id": "boosted_avalon",
+    "name": "Avalon Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by wrapped Avalon tokens, which generate yield from lending activities on the Avalon protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "avalon_boosted.png",
+    "addresses": {
+      "146": [
+        "0xd31e89ffb929b38ba60d1c7dbeb68c7712eaab0a",
+        "0xa28d4dbcc90c849e3249d642f356d85296a12954"
+      ]
+    }
+  },
+  {
+    "id": "boosted_silo",
+    "name": "Silo Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo tokens, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "silo_boosted.png",
+    "addresses": {
+      "146": [
+        "0x52fc9e0a68b6a4c9b57b9d1d99fb71449a99dcd8",
+        "0x87178fe8698c7eda8aa207083c3d66aea569ab98",
+        "0x016C306e103FbF48EC24810D078C65aD13c5f11B",
+        "0x219656f33c58488d09d518badf50aa8cdcaca2aa",
+        "0x5954ce6671d97D24B782920ddCdBB4b1E63aB2De",
+        "0x6c49B18333A1135e9A376560c07E6D1Fd0350EaF",
+        "0xda14a41dbda731f03a94cb722191639dd22b35b2",
+        "0x0A94e18bdbCcD048198806d7FF28A1B1D2590724",
+        "0xe6605932e4a686534D19005BB9dB0FBA1F101272",
+        "0x24c74B30d1a4261608E84Bf5a618693032681DAc",
+        "0x08C320A84a59c6f533e0DcA655cf497594BCa1F9",
+        "0x42CE2234fd5a26bF161477a996961c4d01F466a3"
+      ]
+    }
+  },
+  {
+    "id": "boosted_varlamore",
+    "name": "Varlamore Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by Varlamore. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "varlamore_boosted.png",
+    "addresses": {
+      "146": [
+        "0xF6F87073cF8929C206A77b0694619DC776F89885",
+        "0xDED4aC8645619334186f28B8798e07ca354CFa0e",
+        "0xb6A23cB29e512Df41876B28D7A848BD831f9c5Ba",
+        "0x9a1bf5365edbb99c2c61ca6d9ffad0b705acfc6f"
+      ]
+    }
+  },
+  {
+    "id": "boosted_re7",
+    "name": "Re7 Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by wrapped Silo vault tokens, curated by re7. They generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "re7_boosted.png",
+    "addresses": {
+      "146": [
+        "0x592d1e187729c76efacc6dffb9355bd7bf47b2a7"
+      ]
+    }
+  },
+  {
+    "id": "boosted_euler",
+    "name": "Euler Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by Euler tokens, which generate yield from lending activities on the Euler protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "euler_boosted.png",
+    "addresses": {
+      "43114": [
+        "0x5030183b3dd0105d69d7d45595c120fc4b542ec3",
+        "0xa446938b0204aa4055cdfed68ddf0e0d1bab3e9e",
+        "0x2137568666f12fc5a026f5430ae7194f1c1362ab",
+        "0x39de0f00189306062d79edec6dca5bb6bfd108f9",
+        "0x72f92a966f1874f74e1b601bee7cf57031b53a03",
+        "0x51b47b3013863c52ca28d603de3c2d7a5fef50b9"
+      ],
+      "146": [
+        "0x90a804D316A06E00755444D56b9eF52e5C4F4D73",
+        "0x6832F3090867449c058e1e3088E552E12AB18F9E"
+      ]
+    }
+  },
+  {
+    "id": "boosted_stability",
+    "name": "Stability Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by Stability Meta Vaults, which generate yield from lending activities on various lending protocols, resulting in continuous appreciation of the pool's total value.",
+    "icon": "stability_boosted.png",
+    "addresses": {
+      "146": [
+        "0xccccCCcca9FC69a2b32408730011EdB3205A93A1",
+        "0xEEEEEEE6d95E55A468D32FeB5d6648754d10A967"
+      ]
+    }
+  },
+  {
+    "id": "boosted_beefy",
+    "name": "Beefy Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by Beefy Vaults, which generate yield from lending activities on the Silo protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "beefy_boosted.png",
+    "addresses": {
+      "146": [
+        "0x7870ddfd5aca4e977b2287e9a212bcbe8fc4135a"
+      ]
+    }
+  },
+  {
+    "id": "boosted_superform",
+    "name": "Superform Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by Superform Vaults, which generate yield from lending activities on the Superform protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "superform_boosted.png",
+    "addresses": {
+      "8453": [
+        "0xe9F2a5F9f3c846f29066d7fB3564F8E6B6b2D65b"
+      ]
+    }
+  },
+  {
+    "id": "boosted_fluid",
+    "name": "Fluid Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by Fluid Vaults, which generate yield from lending activities on the Fluid protocol, resulting in continuous appreciation of the pool's total value.",
+    "icon": "fluid_boosted.png",
+    "addresses": {
+      "1": [
+        "0x2411802d8bea09be0af8fd8d08314a63e706b29c",
+        "0x90551c1795392094fe6d29b758eccd233cfaa260"
+      ],
+      "8453": [
+        "0x9272d6153133175175bc276512b2336be3931ce9"
+      ],
+      "42161": [
+        "0x45df0656f8adf017590009d2f1898eeca4f0a205"
+      ]
+    }
+  },
+  {
+    "id": "boosted_infinifi",
+    "name": "infiniFi Boosted",
+    "description": "This boosted pool's underlying mechanics are powered by infiniFi & Ethena tokens. siUSD earns yield from fractional reserve deployments of capital into lending markets & illiquid, higher yielding assets like Pendle PTs & Ethena sUSDe. sUSDe earns yield from the tokenized strategy for farming funding rates as provided through Ethena Finance.",
+    "icon": "infinifi_boosted.png",
+    "addresses": {
+      "1": [
+        "0xdbdc1ef57537e34680b898e1febd3d68c7389bcb"
+      ]
+    }
+  },
+  {
+    "id": "boosted_extrafi",
+    "name": "Extra Finance Boosted",
+    "description": "This Boosted Pool is powered by wrapped Extrafi XLend tokens, which earn yield through lending activity on the Extrafi XLend protocol—driving continuous growth in the pool’s total value.",
+    "icon": "extrafi_boosted.png",
+    "addresses": {
+      "8453": [
+        "0x589a7339c6d0c8777e7429f57f2f95c069c37288",
+        "0x98efe85735f253a0ed0be8e2915ff39f9e4aff0f"
+      ]
+    }
+  },
+  {
+    "id": "boosted_resolv",
+    "name": "Resolv Boosted",
+    "description": "",
+    "icon": "resolv_boosted.png",
+    "addresses": {
+      "1": [
+        "0x1202f5c7b4b9e47a1a484e8b270be34dbbc75055"
+      ]
+    }
+  },
+  {
+    "id": "boosted_hypurrfi",
+    "name": "HypurrFi Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by wrapped HypurrFi tokens",
+    "icon": "hypurrfi_boosted.png",
+    "addresses": {
+      "999": [
+        "0x6d9dae449c4beb29151132b4c4b2692b7954cfae"
+      ]
+    }
+  },
+  {
+    "id": "boosted_dolomite",
+    "name": "Dolomite Boosted",
+    "description": "This Boosted pool's underlying mechanics are powered by wrapped Dolomite tokens",
+    "icon": "dolomite_boosted.png",
+    "addresses": {
+      "80094": [
+        "0x29cf6e8ecefb8d3c9dd2b727c1b7d1df1a754f6f",
+        "0x474F32Eb1754827C531C16330Db07531e901BcBe",
+        "0xAa97D791Afc02AF30cf0B046172bb05b3c306517"
+      ]
+    }
+  }
 ]
