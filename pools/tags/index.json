@@ -22,27 +22,38 @@
         "tokens": {}
     },
     {
-        "id": "points_test_qa_no_url",
-        "name": "QA No URL\ntest WHYPE UBTC desc with line break",
-        "description": null,
-        "value": null,
-        "icon": null,
-        "pools": ["0x7a4b876ecf19c072e43bb927e297d07287fe7bb7"],
-        "tokens": {}
-    },
-    {
         "id": "points_test_qa_test1",
         "name": "QA Test Points Long Title This is a very very long title - feUSD, wgBERA",
         "description": "Test Points with a very\nvery long description\nwith line breaks",
         "value": "3a",
         "url": null,
         "icon": "avax_lsts.svg",
-        "pools": [
-"0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"
-        ],
+        "pools": ["0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"],
         "tokens": {
             "999": ["0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"],
             "80094": ["0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"]
         }
+    },
+    {
+        "id": "points_test_qa_js",
+        "name": "QA Test Points with <script>alert('XSS')</script>",
+        "description": "<script>alert('XSS')</script>",
+        "value": "99",
+        "url": null,
+        "icon": "avax_lsts.svg",
+        "pools": ["0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"],
+        "tokens": {
+            "999": ["0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"],
+            "80094": ["0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"]
+        }
+    },
+    {
+        "id": "points_test_qa_alert",
+        "name": "QA Test Points with alert('XSS Test')",
+        "description": "alert('XSS Test')",
+        "value": "alert('XSS Test')",
+        "url": "alert('XSS Test')",
+        "icon": "pareto.svg",
+        "pools": ["0x7d0654b0ce0eb8842041a0fcbfe3f93eee679f18"]
     }
 ]
