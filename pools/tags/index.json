@@ -8,7 +8,10 @@
         "icon": "points_elixir.jpeg",
         "pools": [],
         "tokens": {
-            "999": ["0x9fdbda0a5e284c32744d2f17ee5c74b284993463", "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"]
+            "999": [
+                "0x9fdbda0a5e284c32744d2f17ee5c74b284993463",
+                "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"
+            ]
         }
     },
     {
@@ -18,7 +21,9 @@
         "value": "5",
         "url": "https://hyperfoundation.org/",
         "icon": "ditto_network_points.png",
-        "pools": ["0x9492a7d42b571a100eec3ea080d20310d87f513c"],
+        "pools": [
+            "0x9492a7d42b571a100eec3ea080d20310d87f513c"
+        ],
         "tokens": {}
     },
     {
@@ -28,10 +33,16 @@
         "value": "3a",
         "url": null,
         "icon": "avax_lsts.svg",
-        "pools": ["0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"],
+        "pools": [
+            "0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"
+        ],
         "tokens": {
-            "999": ["0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"],
-            "80094": ["0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"]
+            "999": [
+                "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"
+            ],
+            "80094": [
+                "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"
+            ]
         }
     },
     {
@@ -41,10 +52,16 @@
         "value": "99",
         "url": null,
         "icon": "avax_lsts.svg",
-        "pools": ["0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"],
+        "pools": [
+            "0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"
+        ],
         "tokens": {
-            "999": ["0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"],
-            "80094": ["0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"]
+            "999": [
+                "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"
+            ],
+            "80094": [
+                "0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"
+            ]
         }
     },
     {
@@ -54,6 +71,25 @@
         "value": "alert('XSS Test')",
         "url": "alert('XSS Test')",
         "icon": "pareto.svg",
-        "pools": ["0x7d0654b0ce0eb8842041a0fcbfe3f93eee679f18"]
+        "pools": [
+            "0x7d0654b0ce0eb8842041a0fcbfe3f93eee679f18"
+        ]
+    },
+    {
+        "id": "points_for_chonks_3x",
+        "name": "Test Points A",
+        "description": "Test Points for WHYPE",
+        "value": "3",
+        "url": null,
+        "icon": "points_elixir.jpeg",
+        "pools": [],
+        "tokens": {
+            "999": [
+                "0x5555555555555555555555555555555555555555"
+            ]
+        },
+        "startTime": "1756684800",
+        "endTime": "1759276799",
+        "history": []
     }
 ]
