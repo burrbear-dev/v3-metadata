@@ -38,8 +38,8 @@
         "endTime": "1759268156"
     },
     {
-        "id": "points_test_qa_js",
-        "name": "QA Test Points with <script>alert('XSS')</script>",
+        "id": "points_test_qa_js_scheduled",
+        "name": "QA scheduled test Points with <script>alert('XSS')</script>",
         "description": "<script>alert('XSS')</script>",
         "value": "99",
         "url": null,
@@ -49,15 +49,14 @@
             "999": ["0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"],
             "80094": ["0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"]
         },
-        "startTime": "1759231749",
-        "endTime": "1759268156"
+        "startTime": "1759277417",
+        "endTime": "1759278038"
     },
     {
         "id": "points_test_chonks_3x",
         "name": "Test Choinks A",
         "description": "Test Points for WHYPE",
         "value": "3",
-        "url": null,
         "icon": "points_elixir.jpeg",
         "pools": [],
         "tokens": {
@@ -68,15 +67,11 @@
     },
     {
         "id": "points_choinks",
-        "name": "Choinks 1x",
-        "description": "Choinks 1x",
+        "name": "Choinks",
+        "description": "Earn choinks by providing liquidity to this pool",
         "value": "1",
-        "url": null,
         "icon": "points_hyperchonk.svg",
-        "pools": [
-            "0x489610ff98c06969104a54582345d4c7041d9283",
-            "0xf7ee72ce6f1c00ba1e82d78a421118357a7b786f"
-        ],
+        "pools": ["0x489610ff98c06969104a54582345d4c7041d9283", "0xf7ee72ce6f1c00ba1e82d78a421118357a7b786f"],
         "history": []
     }
 ]
