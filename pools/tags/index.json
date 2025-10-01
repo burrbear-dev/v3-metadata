@@ -28,7 +28,6 @@
         "name": "QA Test Points Long Title This is a very very long title - feUSD, wgBERA",
         "description": "Test Points with a very\nvery long description\nwith line breaks",
         "value": "35",
-        "url": null,
         "icon": "avax_lsts.svg",
         "pools": ["0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"],
         "tokens": {
@@ -42,7 +41,6 @@
         "name": "QA scheduled test Points with <script>alert('XSS')</script>",
         "description": "<script>alert('XSS')</script>",
         "value": "99",
-        "url": null,
         "icon": "avax_lsts.svg",
         "pools": ["0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"],
         "tokens": {
