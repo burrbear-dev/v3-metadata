@@ -1,75 +1,16 @@
 [
     {
-        "id": "points_test_3x",
-        "name": "Test Points A",
-        "description": "Test Points for UBTC and feUSD holders",
-        "value": "3",
-        "url": "https://elixir.xyz",
-        "icon": "points_elixir.jpeg",
-        "pools": [],
-        "tokens": {
-            "999": ["0x9fdbda0a5e284c32744d2f17ee5c74b284993463", "0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"]
-        },
-        "endTime": "1759268156"
-    },
-    {
-        "id": "points_test_hyperliquid_10x",
-        "name": "Hyperliquid S2 Airdrop Points",
-        "description": "Test Points for USD₮0 feUSD USDe USDXL USDHL Pool",
-        "value": "5",
-        "url": "https://hyperfoundation.org/",
-        "icon": "ditto_network_points.png",
-        "pools": ["0x489610ff98c06969104a54582345d4c7041d9283"],
-        "tokens": {},
-        "endTime": "1759268156"
-    },
-    {
-        "id": "points_test_qa_test1",
-        "name": "QA Test Points Long Title This is a very very long title - feUSD, wgBERA",
-        "description": "Test Points with a very\nvery long description\nwith line breaks",
-        "value": "35",
-        "icon": "avax_lsts.svg",
-        "pools": ["0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"],
-        "tokens": {
-            "999": ["0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"],
-            "80094": ["0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"]
-        },
-        "endTime": "1759268156"
-    },
-    {
-        "id": "points_test_qa_js_scheduled",
-        "name": "QA scheduled test Points with <script>alert('XSS')</script>",
-        "description": "<script>alert('XSS')</script>",
-        "value": "99",
-        "icon": "avax_lsts.svg",
-        "pools": ["0x4c8285e98cec2f78267a6d1bb9b1005cf32610a0000200000000000000000026"],
-        "tokens": {
-            "999": ["0x02c6a2fa58cc01a18b8d9e00ea48d65e4df26c70"],
-            "80094": ["0xd77552d3849ab4d8c3b189a9582d0ba4c1f4f912"]
-        },
-        "startTime": "1759277417",
-        "endTime": "1759278038"
-    },
-    {
-        "id": "points_test_chonks_3x",
-        "name": "Test Choinks A",
-        "description": "Test Points for WHYPE",
-        "value": "3",
-        "icon": "points_elixir.jpeg",
-        "pools": [],
-        "tokens": {
-            "999": ["0x5555555555555555555555555555555555555555"]
-        },
-        "endTime": "1759228083",
-        "history": []
-    },
-    {
         "id": "points_choinks",
         "name": "Choinks",
-        "description": "Earn choinks by providing liquidity to this pool",
+        "description": "Earn Choinks by providing liquidity to this pool",
         "value": "1",
         "icon": "points_hyperchonk.svg",
         "pools": ["0x489610ff98c06969104a54582345d4c7041d9283", "0xf7ee72ce6f1c00ba1e82d78a421118357a7b786f"],
-        "history": []
+        "history": [
+            {
+                "value": "1",
+                "updatedAt": 1759284649
+            }
+        ]
     }
 ]
